@@ -1,15 +1,18 @@
 .contact__page{
     background-color: #04364A;
+    width: 100%;
     height: 100vh;
 }
-
-.contact__wrapper {
+    .contact__wrapper {
     padding: 117.77px 89.5px;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
     gap: 100px;
     width: 100%;
     max-width: 1512px;
-    margin: 0 auto;
+    margin: auto auto;
 }
 
 .contact__title {
@@ -132,4 +135,6 @@
     width: 100%;
     border-radius: 50px;
     margin-top: 32px;
+    outline: none;
+    border: none;
 }

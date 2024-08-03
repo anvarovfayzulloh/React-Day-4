@@ -11,7 +11,6 @@ const About = () => {
 
   return (
     <section className='contact__page' >
-      <div className="container__form">
         <div className="contact__wrapper">
           <div>
             <h2 className='contact__title' >
@@ -75,7 +74,6 @@ const About = () => {
             <button className='contact__btn' type='submit' >Send message</button>
           </form>
         </div>
-      </div>
     </section>
   )
 }
