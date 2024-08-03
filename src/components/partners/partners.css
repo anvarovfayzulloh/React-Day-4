@@ -1,0 +1,9 @@
+.partners{
+    background-color: black;
+}
+.partners__wrapper{
+    display: flex;
+    align-items: center;
+    gap: 0px 106px;
+    padding: 44px 0px;
+}
